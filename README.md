@@ -9,6 +9,8 @@ This repository is mainly structured into two components:
 1. **2021 retrospective analysis (`uced-neg-2021`)**: Focused on historical data and scenarios.
 2. **2030 forward-looking analysis (`uced-neg-2030`)**: Focused on future projections and scenarios.
 
+In addition, **figures_for_paper** contains the figures displayed in the JEPO paper.
+
 Contact Ming (m2wei at ucsd dot edu) if you run into any issues.
 
 ---
