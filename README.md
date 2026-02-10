@@ -137,3 +137,4 @@ Contact Ming (m2wei at ucsd dot edu) if you run into any issues.
 - **EDUCModel.jl**: Core UCED model function.
 - **RecordCSV.jl**: Saves main optimization outputs to CSV.
 - **ProcessDispatch.jl**: Processes and records hourly dispatch results.
+- **Plot_figureX.py**: Visualizes results and plots figure for the JEPO paper (X represents the figure number).
