@@ -1,0 +1,365 @@
+region,Resource,technology,R_ID,Zone,STOR,SOLAR,BIOPOWER,COAL,GEOTHERMAL,WIND,GAS,LHYDRO,SHYDRO,HYDRO,NUCLEAR,NONDISP,RENEW,OTHER,Existing_Cap_MW,num_units,Cap_Size,Existing_Cap_MWh,Var_OM_Cost_per_MWh,Start_Cost_per_MW,Start_Fuel_MMBTU_per_MW,Heat_Rate_MMBTU_per_MWh,Fuel,Min_Power,Eff_Up,Eff_Down,Ramp_Up_Percentage,Ramp_Dn_Percentage,Up_Time,Down_Time,Fuel_type
+HL,Daqing Oil Central power station Unit 2,cogen_conventional_steam_coal,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,12.6179,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Daqing Oil Central power station Unit 3,cogen_conventional_steam_coal,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,12.6179,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Mudanjiang-2 power station Unit 6,conventional_steam_coal,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,215,1,215,0,1.78,117.0,13.7,12.6179,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin-3 power station Unit 1,cogen_conventional_steam_coal,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,220,1,220,0,1.78,117.0,13.7,12.6179,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin-3 power station Unit 2,cogen_conventional_steam_coal,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,220,1,220,0,1.78,117.0,13.7,12.6179,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Bei'an power station Unit 1,cogen_conventional_steam_coal,6,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,12.1828,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Bei'an power station Unit 2,cogen_conventional_steam_coal,7,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,12.1828,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Daqing Oil Hongwei power station Unit 1,cogen_conventional_steam_coal,8,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,12.1828,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Daqing Oil Hongwei power station Unit 2,cogen_conventional_steam_coal,9,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,12.1828,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Daqing Oil Hongwei power station Unit 3,cogen_conventional_steam_coal,10,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,1,100,0,1.78,117.0,13.7,12.1828,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jixi power station Unit 10,cogen_conventional_steam_coal,11,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,125,1,125,0,1.78,117.0,13.7,12.1828,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jixi power station Unit 9,cogen_conventional_steam_coal,12,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,125,1,125,0,1.78,117.0,13.7,12.1828,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Mudanjiang-2 power station Unit 7,conventional_steam_coal,13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,12.1828,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Mudanjiang Cogen power station Unit 5,cogen_conventional_steam_coal,14,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,80,1,80,0,1.78,117.0,13.7,12.047,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Anda Cogen power station Unit 1,cogen_conventional_steam_coal,15,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Anda Cogen power station Unit 2,cogen_conventional_steam_coal,16,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Heilongjiang Hegang Mining power station Unit 3,cogen_conventional_steam_coal,17,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Heilongjiang Hegang Mining power station Unit 4,cogen_conventional_steam_coal,18,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Datang Shuangyashan power station Unit 1,cogen_conventional_steam_coal,19,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Datang Shuangyashan power station Unit 2,cogen_conventional_steam_coal,20,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Hegang power station Phase I Unit 1,cogen_conventional_steam_coal,21,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Hegang power station Phase I Unit 2,cogen_conventional_steam_coal,22,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Qitaihe power station Unit 1,cogen_conventional_steam_coal,23,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Qitaihe power station Unit 2,cogen_conventional_steam_coal,24,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jiamusi Zhongheng Cogen power station Unit 1,cogen_conventional_steam_coal,25,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,75,1,75,0,1.78,117.0,13.7,11.1865,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Linkou Shengye Cogen power station Unit 1,cogen_conventional_steam_coal,26,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Wuchang Cogen power station Unit 1,cogen_conventional_steam_coal,27,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Daqing Oil Central power station Unit 4,cogen_conventional_steam_coal,28,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Datang Harbin Cogen power station Phase I Unit 1,cogen_conventional_steam_coal,29,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Datang Harbin Cogen power station Phase I Unit 2,cogen_conventional_steam_coal,30,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin-1 power station Phase V Unit 7,cogen_conventional_steam_coal,31,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin-1 power station Phase V Unit 8,cogen_conventional_steam_coal,32,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Heilongjiang Qiqihar power station Unit 1,cogen_conventional_steam_coal,33,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Heilongjiang Qiqihar power station Unit 2,cogen_conventional_steam_coal,34,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jiamusi-2 power station Unit 4,cogen_conventional_steam_coal,35,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jiamusi-2 power station Unit 5,cogen_conventional_steam_coal,36,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jixi power station Unit 11,cogen_conventional_steam_coal,37,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jixi power station Unit 12,cogen_conventional_steam_coal,38,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Mudanjiang-2 power station Unit 8,cogen_conventional_steam_coal,39,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Mudanjiang-2 power station Unit 9,cogen_conventional_steam_coal,40,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Xinhua power station Unit 6,conventional_steam_coal,41,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin-3 power station Unit 3,cogen_conventional_steam_coal,42,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin-3 power station Unit 4,cogen_conventional_steam_coal,43,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,10.4424,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Yipin Captive power station Unit 1,cogen_conventional_steam_coal,44,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,35,1,35,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Yipin Captive power station Unit 2,cogen_conventional_steam_coal,45,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,35,1,35,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Yipin Captive power station Unit 3,cogen_conventional_steam_coal,46,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,35,1,35,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Daqing Hegong Linyuan power station Unit 1,cogen_conventional_steam_coal,47,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Daqing Hegong Linyuan power station Unit 2,cogen_conventional_steam_coal,48,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jiamusi Zhongheng Cogen power station Unit 3,cogen_conventional_steam_coal,49,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Tieli Yuxiang Cogen power station Unit 1,cogen_conventional_steam_coal,50,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,56,1,56,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Mudanjiang Cogen power station Unit 6,cogen_conventional_steam_coal,51,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,1,100,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jiagedaqi Cogen power station Unit 1,cogen_conventional_steam_coal,52,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,135,1,135,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jiagedaqi Cogen power station Unit 2,cogen_conventional_steam_coal,53,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,135,1,135,0,1.78,117.0,13.7,10.326,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin Pingnan cogen power station Unit 1,cogen_conventional_steam_coal,54,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin Pingnan cogen power station Unit 2,cogen_conventional_steam_coal,55,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Huaneng Daqing power station Unit 1,cogen_conventional_steam_coal,56,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Huaneng Daqing power station Unit 2,cogen_conventional_steam_coal,57,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin-1 power station Phase VI Unit 9,cogen_conventional_steam_coal,58,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.5722,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Qitaihe power station Unit 3,conventional_steam_coal,59,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Qitaihe power station Unit 4,conventional_steam_coal,60,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Bei'an power station Phase II Unit 3,cogen_conventional_steam_coal,61,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.4655,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Bei'an power station Phase II Unit 4,cogen_conventional_steam_coal,62,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.4655,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Fulaerji-1 power station Phase I Unit 10,cogen_conventional_steam_coal,63,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Suihua power station Unit 1,cogen_conventional_steam_coal,64,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Suihua power station Unit 2,cogen_conventional_steam_coal,65,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Yichun cogen power station Unit 1,cogen_conventional_steam_coal,66,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Yichun cogen power station Unit 2,cogen_conventional_steam_coal,67,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Shuangyashan power station Phase II Unit 1,conventional_steam_coal,68,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Shuangyashan power station Phase II Unit 2,conventional_steam_coal,69,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Hegang power station Phase II Unit 3,cogen_conventional_steam_coal,70,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Datang Harbin Cogen power station Phase II Unit 1,cogen_conventional_steam_coal,71,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.702,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Heilongjiang Baoqing power station Phase I Unit 1,cogen_conventional_steam_coal,72,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,8.409,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Heilongjiang Baoqing power station Phase I Unit 2,cogen_conventional_steam_coal,73,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,8.409,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin Pingnan cogen power station Phase II Unit 3,cogen_conventional_steam_coal,74,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin Pingnan cogen power station Phase II Unit 4,cogen_conventional_steam_coal,75,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Harbin-3 power station Unit 5,cogen_conventional_steam_coal,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jixi City power station Unit 1,cogen_conventional_steam_coal,77,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,Jixi City power station Unit 2,cogen_conventional_steam_coal,78,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,HL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Huolinhe Zhanute power station Phase I Unit 2,conventional_steam_coal,79,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.3126,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hailar power station Phase II Unit 3,cogen_conventional_steam_coal,80,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.3126,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hailar power station Phase II Unit 4,cogen_conventional_steam_coal,81,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.3126,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hexigten Coal Gasification captive power station Unit 1,conventional_steam_coal,82,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,11.1865,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hexigten Coal Gasification captive power station Unit 2,conventional_steam_coal,83,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,11.1865,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,East Hailar power station Unit 5,cogen_conventional_steam_coal,84,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,11.1865,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hexigten Coal Gasification captive power station Unit 3,conventional_steam_coal,85,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,1,100,0,1.78,117.0,13.7,11.1865,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hexigten Coal Gasification captive power station Unit 4,conventional_steam_coal,86,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,1,100,0,1.78,117.0,13.7,11.1865,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Manzhouli Dalaihu power station Unit 1,cogen_conventional_steam_coal,87,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.1865,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Manzhouli Dalaihu power station Unit 2,cogen_conventional_steam_coal,88,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.1865,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Yuanbaoshan power station Phase II Unit 2,conventional_steam_coal,89,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,10.8775,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Ningcheng Lihe cogen power station Unit 1,cogen_conventional_steam_coal,90,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Ningcheng Lihe cogen power station Unit 2,cogen_conventional_steam_coal,91,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Ningcheng Lihe cogen power station Unit 3,cogen_conventional_steam_coal,92,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Fulong Cogen power station Unit 4,cogen_conventional_steam_coal,93,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Fulong Cogen power station Unit 5,cogen_conventional_steam_coal,94,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Jinyufeng Biotechnology Co Kailu Cogen power station Unit 1,cogen_conventional_steam_coal,95,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,1,100,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Jinyufeng Biotechnology Co Kailu Cogen power station Unit 2,cogen_conventional_steam_coal,96,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,1,100,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hongjun Aluminum power station Phase B Unit 7,cogen_conventional_steam_coal,97,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hongjun Aluminum power station Phase B Unit 8,cogen_conventional_steam_coal,98,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Jingke power station Unit 1,cogen_conventional_steam_coal,99,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Yuanbaoshan power station Phase III Unit 3,conventional_steam_coal,100,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,10.4424,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Jiyuan Cogen power station Unit 1,cogen_conventional_steam_coal,101,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,36,1,36,0,1.78,117.0,13.7,10.326,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Jiyuan Cogen power station Unit 2,cogen_conventional_steam_coal,102,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,36,1,36,0,1.78,117.0,13.7,10.326,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Huiliuhe power station Unit 6,cogen_conventional_steam_coal,103,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Yimin power station Phase I Unit 1,cogen_conventional_steam_coal,104,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,500,1,500,0,1.78,117.0,13.7,10.0908,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Yimin power station Phase I Unit 2,cogen_conventional_steam_coal,105,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,500,1,500,0,1.78,117.0,13.7,10.0908,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng New City Region power station Unit 1,cogen_conventional_steam_coal,106,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng New City Region power station Unit 2,cogen_conventional_steam_coal,107,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chuangyuan Smelter power station Unit 1,conventional_steam_coal,108,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chuangyuan Smelter power station Unit 2,conventional_steam_coal,109,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chuangyuan Smelter power station Unit 3,conventional_steam_coal,110,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chuangyuan Smelter power station Unit 4,conventional_steam_coal,111,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chuangyuan Smelter power station Unit 5,conventional_steam_coal,112,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chuangyuan Smelter power station Unit 6,conventional_steam_coal,113,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Inner Mongolia Energy Hinggan power station Unit 1,cogen_conventional_steam_coal,114,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,340,1,340,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Inner Mongolia Energy Hinggan power station Unit 2,cogen_conventional_steam_coal,115,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,340,1,340,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hongjun Aluminum power station Phase C Unit 10,cogen_conventional_steam_coal,116,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hongjun Aluminum power station Phase C Unit 9,cogen_conventional_steam_coal,117,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Daban power station Unit 1,conventional_steam_coal,118,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Daban power station Unit 2,conventional_steam_coal,119,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Yuanbaoshan power station Phase III Unit 4,conventional_steam_coal,120,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Yimin power station Phase II Unit 3,cogen_conventional_steam_coal,121,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Yimin power station Phase II Unit 4,cogen_conventional_steam_coal,122,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Huolinhe power station Phase I Unit 1,cogen_conventional_steam_coal,123,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Huolinhe power station Phase I Unit 2,cogen_conventional_steam_coal,124,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Tongliao power station Unit 5,cogen_conventional_steam_coal,125,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.5722,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Huiliuhe power station Unit 5,cogen_conventional_steam_coal,126,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.4655,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Economic Development Zone Captive Cogen power station Unit 1,cogen_conventional_steam_coal,127,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Chifeng Economic Development Zone Captive Cogen power station Unit 2,cogen_conventional_steam_coal,128,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Jingke power station Unit 2,cogen_conventional_steam_coal,129,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Ewenki power station Phase I Unit 1,conventional_steam_coal,130,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Ewenki power station Phase I Unit 2,conventional_steam_coal,131,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hulunbuir Baorixile power station Phase I Unit 1,conventional_steam_coal,132,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Hulunbuir Baorixile power station Phase I Unit 2,conventional_steam_coal,133,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Yimin power station Phase III Unit 5,cogen_conventional_steam_coal,134,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Yimin power station Phase III Unit 6,cogen_conventional_steam_coal,135,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Manzhouli Dalaihu power station Unit 3,cogen_conventional_steam_coal,136,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.0992,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Manzhouli Dalaihu power station Unit 4,cogen_conventional_steam_coal,137,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.0992,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Tongliao power station Unit 8,cogen_conventional_steam_coal,138,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.0992,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Tongliao power station Unit 9,cogen_conventional_steam_coal,139,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.0992,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Huolinhe Zhanute power station Phase II Unit 3,conventional_steam_coal,140,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.409,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Huolinhe Zhanute power station Phase II Unit 4,conventional_steam_coal,141,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.409,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Huolinhe Zhanute power station Phase II Unit 5,conventional_steam_coal,142,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.409,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Keyouzhong power station Unit 1,conventional_steam_coal,143,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+IME,Keyouzhong power station Unit 2,conventional_steam_coal,144,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,IME_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longhua Baicheng power station Unit 2,cogen_conventional_steam_coal,145,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longhua Yanji power station Phase I Unit 1,cogen_conventional_steam_coal,146,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longhua Yanji power station Phase I Unit 2,cogen_conventional_steam_coal,147,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,200,1,200,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-2 power station Unit 3,cogen_conventional_steam_coal,148,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,220,1,220,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-2 power station Unit 4,cogen_conventional_steam_coal,149,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,220,1,220,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-2 power station Unit 5,cogen_conventional_steam_coal,150,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,220,1,220,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-2 power station Unit 6,cogen_conventional_steam_coal,151,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,220,1,220,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Shuangliao power station Phase I Unit 2,conventional_steam_coal,152,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Shuangliao power station Phase I Unit 3,cogen_conventional_steam_coal,153,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Shuangliao power station Phase I Unit 4,cogen_conventional_steam_coal,154,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jilin Yuanyuan Cogen power station Unit 7,cogen_conventional_steam_coal,155,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longsheng Cogen power station New Unit 1,cogen_conventional_steam_coal,156,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longsheng Cogen power station New Unit 2,cogen_conventional_steam_coal,157,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jilin Dongfang power station New Unit 1,cogen_conventional_steam_coal,158,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jilin Dongfang power station New Unit 2,cogen_conventional_steam_coal,159,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jilin Dongfang power station New Unit 3,cogen_conventional_steam_coal,160,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Yuguang Daling Cogen power station Unit 1,cogen_conventional_steam_coal,161,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Yuguang Daling Cogen power station Unit 2,cogen_conventional_steam_coal,162,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-3 power station Unit 3,cogen_conventional_steam_coal,163,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,80,1,80,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-3 power station Unit 4,cogen_conventional_steam_coal,164,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,80,1,80,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-3 power station Unit 1,cogen_conventional_steam_coal,165,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-3 power station Unit 2,cogen_conventional_steam_coal,166,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Hunjiang power station Phase II Unit 1,cogen_conventional_steam_coal,167,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Hunjiang power station Phase II Unit 2,cogen_conventional_steam_coal,168,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Hunchun power station Phase II Unit 3,cogen_conventional_steam_coal,169,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Hunchun power station Phase II Unit 4,cogen_conventional_steam_coal,170,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jilin Jiangnan power station Phase I Unit 1,cogen_conventional_steam_coal,171,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jilin Jiangnan power station Phase I Unit 2,cogen_conventional_steam_coal,172,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Liaoyuan Datang power station Unit 3,cogen_conventional_steam_coal,173,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Liaoyuan Datang power station Unit 4,cogen_conventional_steam_coal,174,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Siping power station Phase II Unit 4,cogen_conventional_steam_coal,175,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Songhuajiang power station Unit 4,cogen_conventional_steam_coal,176,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.4424,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Dongfeng Cogen power station Unit 1,cogen_conventional_steam_coal,177,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Dongfeng Cogen power station Unit 2,cogen_conventional_steam_coal,178,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Dongfeng Cogen power station Unit 3,cogen_conventional_steam_coal,179,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Fanjiatun Kaixuan Cogen power station Unit 1,cogen_conventional_steam_coal,180,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Fanjiatun Kaixuan Cogen power station Unit 2,cogen_conventional_steam_coal,181,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Hongyuan Waste Coal Cogen power station Unit 1,cogen_conventional_steam_coal,182,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,35,1,35,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Hongyuan Waste Coal Cogen power station Unit 2,cogen_conventional_steam_coal,183,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,35,1,35,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,CPI Tonghua County Cogen power station Unit 1,cogen_conventional_steam_coal,184,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,42,1,42,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,CPI Tonghua County Cogen power station Unit 2,cogen_conventional_steam_coal,185,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,42,1,42,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Taolaizhao Public cogen power station Unit 1,cogen_conventional_steam_coal,186,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45,1,45,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Taolaizhao Public cogen power station Unit 2,cogen_conventional_steam_coal,187,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45,1,45,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Siping Industrial Zone cogen power station Unit 1,cogen_conventional_steam_coal,188,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Siping Industrial Zone cogen power station Unit 2,cogen_conventional_steam_coal,189,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Guodian Changchun power station Unit 3,cogen_conventional_steam_coal,190,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Guodian Changchun power station Unit 4,cogen_conventional_steam_coal,191,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Huaneng Changchun power station Unit 1,cogen_conventional_steam_coal,192,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Huaneng Changchun power station Unit 2,cogen_conventional_steam_coal,193,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Siping power station Phase II Unit 5 (Replacement),cogen_conventional_steam_coal,194,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.5722,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun Southeast power station Unit 1,cogen_conventional_steam_coal,195,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun Southeast power station Unit 2,cogen_conventional_steam_coal,196,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jilin cogen power station Unit 12,cogen_conventional_steam_coal,197,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jilin cogen power station Unit 13,cogen_conventional_steam_coal,198,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Shuangliao power station Phase II Unit 5,conventional_steam_coal,199,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changshan power station Unit 10,cogen_conventional_steam_coal,200,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,CPI Baicheng power station Phase I Unit 1,cogen_conventional_steam_coal,201,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,CPI Baicheng power station Phase I Unit 2,cogen_conventional_steam_coal,202,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jiutai power station Unit 1,cogen_conventional_steam_coal,203,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,670,1,670,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Jiutai power station Unit 2,cogen_conventional_steam_coal,204,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,670,1,670,0,1.78,117.0,13.7,9.2499,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longhua Baicheng power station Unit 3,cogen_conventional_steam_coal,205,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.605,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longhua Baicheng power station Unit 4,cogen_conventional_steam_coal,206,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.605,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longhua Baicheng power station Unit 5,cogen_conventional_steam_coal,207,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.605,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longhua Baicheng power station Unit 6,cogen_conventional_steam_coal,208,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.605,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Longhua Baicheng power station Unit 7,cogen_conventional_steam_coal,209,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.605,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Shuangliao power station Phase III Unit 6,conventional_steam_coal,210,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-2 power station Unit R1,cogen_conventional_steam_coal,211,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changchun-2 power station Unit R2,cogen_conventional_steam_coal,212,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+JL,Changshan power station Unit 11,cogen_conventional_steam_coal,213,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,JL_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Dalian power station Phase I Unit 2,cogen_conventional_steam_coal,214,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.7477,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaotung Chemical power station Unit 1,conventional_steam_coal,215,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaotung Chemical power station Unit 2,conventional_steam_coal,216,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Panjin Liaohe Futeng power station Unit 3,cogen_conventional_steam_coal,217,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Panjin Liaohe Futeng power station Unit 4,cogen_conventional_steam_coal,218,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Changxing Island Hengli Petrochemical power station Unit 1,cogen_conventional_steam_coal,219,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,60,1,60,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Changxing Island Hengli Petrochemical power station Unit 2,cogen_conventional_steam_coal,220,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,60,1,60,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,CNPC Fushun Petrochemical power station Unit 11,cogen_conventional_steam_coal,221,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,1,100,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,CNPC Fushun Petrochemical power station Unit 12,cogen_conventional_steam_coal,222,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,100,1,100,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian Taishan power station Unit 1,cogen_conventional_steam_coal,223,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,135,1,135,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian Taishan power station Unit 2,cogen_conventional_steam_coal,224,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,135,1,135,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin Jinshan power station Unit 1,cogen_conventional_steam_coal,225,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,150,1,150,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin Jinshan power station Unit 2,cogen_conventional_steam_coal,226,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,150,1,150,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin Jinshan power station Unit 3,cogen_conventional_steam_coal,227,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,150,1,150,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin Jinshan power station Unit 4,cogen_conventional_steam_coal,228,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,150,1,150,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaoning Nanpiao power station Phase II Unit 3,cogen_conventional_steam_coal,229,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,150,1,150,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaoning Nanpiao power station Phase II Unit 4,cogen_conventional_steam_coal,230,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,150,1,150,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Sujiatun Jinshan power station Unit 1,cogen_conventional_steam_coal,231,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,220,1,220,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Sujiatun Jinshan power station Unit 2,cogen_conventional_steam_coal,232,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,220,1,220,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Tieling power station Unit 3,cogen_conventional_steam_coal,233,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Tieling power station Unit 4,cogen_conventional_steam_coal,234,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dandong power station Unit 1,cogen_conventional_steam_coal,235,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dandong power station Unit 2,cogen_conventional_steam_coal,236,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Dalian power station Phase II Unit 3,cogen_conventional_steam_coal,237,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Dalian power station Phase II Unit 4,cogen_conventional_steam_coal,238,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,11.3126,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dahua Dagushan power station Unit 2,cogen_conventional_steam_coal,239,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,60,1,60,0,1.78,117.0,13.7,11.1865,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dahua Dagushan power station Unit 3,cogen_conventional_steam_coal,240,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,60,1,60,0,1.78,117.0,13.7,11.1865,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Yingkou power station Unit 1,cogen_conventional_steam_coal,241,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,320,1,320,0,1.78,117.0,13.7,10.9317,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Yingkou power station Unit 2,cogen_conventional_steam_coal,242,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,320,1,320,0,1.78,117.0,13.7,10.9317,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin Coal gasification power station Phase I Unit 1,conventional_steam_coal,243,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin Coal gasification power station Phase I Unit 2,conventional_steam_coal,244,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Dalian-2 power station Unit 1,cogen_conventional_steam_coal,245,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Dalian-2 power station Unit 2,cogen_conventional_steam_coal,246,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaoyang Guocheng power station Unit 1,cogen_conventional_steam_coal,247,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaoyang Guocheng power station Unit 2,cogen_conventional_steam_coal,248,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Yingkou Xianrendao power station Unit 1,cogen_conventional_steam_coal,249,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Yingkou Xianrendao power station Unit 2,cogen_conventional_steam_coal,250,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaoyang Guocheng power station Unit 3,cogen_conventional_steam_coal,251,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,60,1,60,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaoyang Guocheng power station Unit 4,cogen_conventional_steam_coal,252,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,60,1,60,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian Ganjingzi power station Unit 1,cogen_conventional_steam_coal,253,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian Ganjingzi power station Unit 2,cogen_conventional_steam_coal,254,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dandong Jinshan power station Unit 1,cogen_conventional_steam_coal,255,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dandong Jinshan power station Unit 2,cogen_conventional_steam_coal,256,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Diaobingshan power station Unit 1,cogen_conventional_steam_coal,257,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Diaobingshan power station Unit 2,cogen_conventional_steam_coal,258,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fushun CPI power station Unit 3,cogen_conventional_steam_coal,259,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fushun CPI power station Unit 4,cogen_conventional_steam_coal,260,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Hongyang cogen power station Unit 1,cogen_conventional_steam_coal,261,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Hongyang cogen power station Unit 2,cogen_conventional_steam_coal,262,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Jinzhou Datang power station Unit 1,cogen_conventional_steam_coal,263,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Jinzhou Datang power station Unit 2,cogen_conventional_steam_coal,264,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Shenxi power station Phase I Unit 1,cogen_conventional_steam_coal,265,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Shenxi power station Phase I Unit 2,cogen_conventional_steam_coal,266,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,330,1,330,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin power station Unit 3-1,conventional_steam_coal,267,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin power station Unit 3-2,conventional_steam_coal,268,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Yingkou cogen power station Unit 1,cogen_conventional_steam_coal,269,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Yingkou cogen power station Unit 2,cogen_conventional_steam_coal,270,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaoning-3 power station Unit 1,cogen_conventional_steam_coal,271,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Liaoning-3 power station Unit 2,cogen_conventional_steam_coal,272,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.4424,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Jinzhou Jingpeng cogen power station Unit 1,cogen_conventional_steam_coal,273,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Jinzhou Jingpeng cogen power station Unit 2,cogen_conventional_steam_coal,274,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,1,30,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fushun New Hi-Tech District cogen power station Phase I Unit 1,cogen_conventional_steam_coal,275,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,40,1,40,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fushun New Hi-Tech District cogen power station Phase I Unit 2,cogen_conventional_steam_coal,276,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,40,1,40,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian Xizhongdao power station Unit 1,cogen_conventional_steam_coal,277,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian Xizhongdao power station Unit 2,cogen_conventional_steam_coal,278,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian Xizhongdao power station Unit 3,cogen_conventional_steam_coal,279,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fushun New Hi-Tech District cogen power station Phase II Unit 3,cogen_conventional_steam_coal,280,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fushun New Hi-Tech District cogen power station Phase II Unit 4,cogen_conventional_steam_coal,281,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.326,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Benxi Steel & Iron power station Unit 10,conventional_steam_coal,282,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Benxi Steel & Iron power station Unit 11,conventional_steam_coal,283,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Benxi Steel & Iron power station Unit 12,conventional_steam_coal,284,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Benxi Steel & Iron power station Unit 9,conventional_steam_coal,285,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50,1,50,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian ETDC power station Phase III Unit 5,cogen_conventional_steam_coal,286,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dalian ETDC power station Phase III Unit 6,cogen_conventional_steam_coal,287,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Panjin Xinli power station Phase I Unit 1,cogen_conventional_steam_coal,288,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Panjin Xinli power station Phase I Unit 2,cogen_conventional_steam_coal,289,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Suizhong power station Phase I Unit 1,cogen_conventional_steam_coal,290,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,880,1,880,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Suizhong power station Phase I Unit 2,cogen_conventional_steam_coal,291,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,880,1,880,0,1.78,117.0,13.7,10.0908,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fushun Zhongji power station Unit 1,cogen_conventional_steam_coal,292,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,9.5722,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fushun Zhongji power station Unit 2,cogen_conventional_steam_coal,293,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,300,1,300,0,1.78,117.0,13.7,9.5722,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Shenhai New power station Unit 1,cogen_conventional_steam_coal,294,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.5722,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Shenhai New power station Unit 2,cogen_conventional_steam_coal,295,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.5722,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Shenxi power station Phase II Unit 1,cogen_conventional_steam_coal,296,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.5722,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Shenxi power station Phase II Unit 2,cogen_conventional_steam_coal,297,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.5722,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Benxi Cogen power station Unit 1,cogen_conventional_steam_coal,298,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Benxi Cogen power station Unit 2,cogen_conventional_steam_coal,299,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Chaoyang GDP power station Unit 3,cogen_conventional_steam_coal,300,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Chaoyang GDP power station Unit 4,cogen_conventional_steam_coal,301,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dangtang Shendong power station Unit 1,cogen_conventional_steam_coal,302,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Dangtang Shendong power station Unit 2,cogen_conventional_steam_coal,303,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin power station Unit 4-1,cogen_conventional_steam_coal,304,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Fuxin power station Unit 4-2,cogen_conventional_steam_coal,305,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Dalian-2 power station Unit 3,cogen_conventional_steam_coal,306,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Dalian-2 power station Unit 4,cogen_conventional_steam_coal,307,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Yingkou cogen power station Phase II Unit 3,cogen_conventional_steam_coal,308,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huaneng Yingkou cogen power station Phase II Unit 4,cogen_conventional_steam_coal,309,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huludao power station Unit 1,cogen_conventional_steam_coal,310,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Huludao power station Unit 2,cogen_conventional_steam_coal,311,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Pulandian Cogen power station Unit 3,cogen_conventional_steam_coal,312,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Pulandian Cogen power station Unit 4,cogen_conventional_steam_coal,313,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,350,1,350,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Chaoyang Yanshanhu power station Unit 1,cogen_conventional_steam_coal,314,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Chaoyang Yanshanhu power station Unit 2,cogen_conventional_steam_coal,315,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Kangping power station Unit 1,cogen_conventional_steam_coal,316,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Kangping power station Unit 2,cogen_conventional_steam_coal,317,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Qinghe power station Unit 10,cogen_conventional_steam_coal,318,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Qinghe power station Unit 9,cogen_conventional_steam_coal,319,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Zhuanghe power station Unit 1,cogen_conventional_steam_coal,320,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Zhuanghe power station Unit 2,cogen_conventional_steam_coal,321,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.2499,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Tieling power station Unit 5,cogen_conventional_steam_coal,322,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.0992,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Tieling power station Unit 6,cogen_conventional_steam_coal,323,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.0992,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Yingkou power station Unit 3,cogen_conventional_steam_coal,324,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.0992,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Yingkou power station Unit 4,cogen_conventional_steam_coal,325,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,600,1,600,0,1.78,117.0,13.7,9.0992,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Suizhong power station Phase II Unit 3,cogen_conventional_steam_coal,326,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1000,1,1000,0,1.78,117.0,13.7,9.0992,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Suizhong power station Phase II Unit 4,cogen_conventional_steam_coal,327,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1000,1,1000,0,1.78,117.0,13.7,9.0992,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Jinzhou CR power station Unit 7,cogen_conventional_steam_coal,328,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+LN,Jinzhou CR power station Unit 8,cogen_conventional_steam_coal,329,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,660,1,660,0,1.78,117.0,13.7,8.272,LN_Coal,0.6425,1.0,1.0,0.6,0.6,8,8,None
+HL,HL_solar_photovoltaic,solar_photovoltaic,330,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,17308,1,17308,0,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+HL,HL_onshore_wind_turbine,onshore_wind_turbine,331,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,32692,1,32692,0,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+HL,HL_GAS_1,natural_gas_fired_combined_cycle,332,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,80,1,80,0,3.75,87.0,2.0,7.6,HL_Gas,0.2,1.0,1.0,1.0,1.0,2,2,None
+HL,HL_GAS_2,natural_gas_fired_combined_cycle,333,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,65,1,65,0,3.75,87.0,2.0,7.6,HL_Gas,0.2,1.0,1.0,1.0,1.0,2,2,None
+HL,HL_hydroelectric_pumped_storage,hydroelectric_pumped_storage,334,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2400,1,3600,28800,0.0,0.0,0.0,0.0,None,0.0,0.8,0.8,1.0,1.0,0,0,None
+HL,HL_conventional_hydroelectric,conventional_hydroelectric,335,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1150,1,1150,1150,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+HL,HL_batteries,batteries,336,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6000,1,6000,24000,0.0,0.0,0.0,0.0,None,0.0,0.95,0.95,1.0,1.0,0,0,None
+IME,IME_solar_photovoltaic,solar_photovoltaic,337,2,0,1,0,0,0,0,0,0,0,0,0,1,1,0,21927,1,21927,0,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+IME,IME_onshore_wind_turbine,onshore_wind_turbine,338,2,0,0,0,0,0,1,0,0,0,0,0,1,1,0,53374,1,53374,0,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+IME,IME_hydroelectric_pumped_storage,hydroelectric_pumped_storage,339,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1200,1,1200,9600,0.0,0.0,0.0,0.0,None,0.0,0.8,0.8,1.0,1.0,0,0,None
+IME,IME_conventional_hydroelectric,conventional_hydroelectric,340,2,0,0,0,0,0,0,0,1,0,1,0,0,1,0,320,1,320,320,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+IME,IME_batteries,batteries,341,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,15000,1,15000,60000,0.0,0.0,0.0,0.0,None,0.0,0.95,0.95,1.0,1.0,0,0,None
+JL,JL_solar_photovoltaic,solar_photovoltaic,342,3,0,1,0,0,0,0,0,0,0,0,0,1,1,0,15000,1,15000,0,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+JL,JL_onshore_wind_turbine,onshore_wind_turbine,343,3,0,0,0,0,0,1,0,0,0,0,0,1,1,0,45000,1,45000,0,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+JL,JL_hydroelectric_pumped_storage,hydroelectric_pumped_storage,344,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5300,1,2900,23200,0.0,0.0,0.0,0.0,None,0.0,0.8,0.8,1.0,1.0,0,0,None
+JL,JL_conventional_hydroelectric,conventional_hydroelectric,345,3,0,0,0,0,0,0,0,1,0,1,0,0,1,0,4780,1,4780,4780,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+JL,JL_batteries,batteries,346,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3000,1,3000,12000,0.0,0.0,0.0,0.0,None,0.0,0.95,0.95,1.0,1.0,0,0,None
+LN,LN_solar_photovoltaic,solar_photovoltaic,347,4,0,1,0,0,0,0,0,0,0,0,0,1,1,0,15455,1,15455,0,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+LN,LN_onshore_wind_turbine,onshore_wind_turbine,348,4,0,0,0,0,0,1,0,0,0,0,0,1,1,0,43595,1,43595,0,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+LN,Hongyanhe Nuclear Power Plant Unit 1,nuclear,349,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1061,1,1061,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,Hongyanhe Nuclear Power Plant Unit 2,nuclear,350,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1061,1,1061,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,Hongyanhe Nuclear Power Plant Unit 3,nuclear,351,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1061,1,1061,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,Hongyanhe Nuclear Power Plant Unit 4,nuclear,352,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1061,1,1061,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,Hongyanhe Nuclear Power Plant Unit 5,nuclear,353,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1061,1,1061,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,Xudapu Nuclear Power Plant Unit 1,nuclear,354,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1290,1,1290,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,Xudapu Nuclear Power Plant Unit 2,nuclear,355,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1290,1,1290,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,Xudapu Nuclear Power Plant Unit 3,nuclear,356,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1270,1,1270,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,Xudapu Nuclear Power Plant Unit 4,nuclear,357,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1270,1,1270,0,2.32,235.0,33.0,10.46,None,0.3,1.0,1.0,1.0,1.0,24,24,None
+LN,LN_GAS_1,natural_gas_fired_combined_cycle,358,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,150,1,150,0,3.75,87.0,2.0,7.6,LN_Gas,0.2,1.0,1.0,1.0,1.0,2,2,None
+LN,LN_GAS_2,natural_gas_fired_combined_cycle,359,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,100,1,100,0,3.75,87.0,2.0,7.6,LN_Gas,0.2,1.0,1.0,1.0,1.0,2,2,None
+LN,LN_hydroelectric_pumped_storage,hydroelectric_pumped_storage,360,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8000,1,6800,54400,0.0,0.0,0.0,0.0,None,0.0,0.8,0.8,1.0,1.0,0,0,None
+LN,LN_conventional_hydroelectric,conventional_hydroelectric,361,4,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1840,1,1840,1840,0.0,0.0,0.0,0.0,None,0.0,1.0,1.0,1.0,1.0,0,0,None
+LN,LN_batteries,batteries,362,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2000,1,2000,8000,0.0,0.0,0.0,0.0,None,0.0,0.95,0.95,1.0,1.0,0,0,None
+SD,SD_conventional_steam_coal,conventional_steam_coal,363,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.001,0.001,0.001,0.001,SD_Coal,0.3875,1.0,1.0,0.6,0.6,8,8,None
+JB,JB_conventional_steam_coal,conventional_steam_coal,364,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.001,0.001,0.001,0.001,JB_Coal,0.3875,1.0,1.0,0.6,0.6,8,8,None
