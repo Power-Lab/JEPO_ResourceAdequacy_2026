@@ -1,8 +1,6 @@
-# UCED-NEG: Unit Commitment and Economic Dispatch Model for Northeast China Grid
+## 1. Overview for the NEG Resource Adequacy Project
 
-## 1. Overview
-
-This repository contains the unit commitment and economic dispatch (UCED) model for the Northeast Power Grid  (ECG) of China for the study **"Resource Adequacy Under Institutional Constraints and the Low-Carbon Energy Transition in China"**. The model is written using [Julia](https://julialang.org/) and uses  [Gurobi](https://www.gurobi.com/)  as the optimization solver. Results are visualized using [R](https://www.r-project.org/) and [Python](https://www.python.org/). The model solves weekly optimization problems for the 12 weeks spanning August to October.
+This repository contains the unit commitment and economic dispatch (UCED) model for the Northeast Power Grid  (NEG) of China for the study **"Resource Adequacy Under Institutional Constraints and the Low-Carbon Energy Transition in China"**. The model is written using [Julia](https://julialang.org/) and uses  [Gurobi](https://www.gurobi.com/)  as the optimization solver. Results are visualized using [R](https://www.r-project.org/) and [Python](https://www.python.org/). The model solves weekly optimization problems for the 12 weeks spanning August to October.
 
 This repository is mainly structured into two components:
 
