@@ -4,7 +4,7 @@ This repository contains the unit commitment and economic dispatch (UCED) model 
 
 This repository is mainly structured into two components:
 
-1. **2021 retrospective analysis (`uced-neg-2021`)**: Focused on historical data and scenarios.
+1. **2021 retrospective analysis (`uced-neg-2021`)**: Focused on historical data and scenarios. In the base case, the derated rate of coal units is set at 35%, while in the sensitivity analysis, it is assumed to be 40%.
 2. **2030 forward-looking analysis (`uced-neg-2030`)**: Focused on future projections and scenarios.
 
 In addition, **figures_for_paper** contains the figures displayed in the JEPO paper.
